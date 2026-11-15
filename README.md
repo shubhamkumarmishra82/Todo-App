@@ -3,6 +3,7 @@ A Full Stack Todo Management Application developed using Java, Spring Boot, Reac
 
 <h1>🚀 Technologies Used</h1>
 <h2>Backend</h2>
+<p>
 Java 17
 Spring Boot 3.2.5
 Spring Security
@@ -12,17 +13,17 @@ MySQL
 JWT Authentication
 BCrypt Password Encryption
 Maven
-
-
-<p>Frontend</p>
-
+</p>
+<h2>Frontend</h2>
+<p>
 React.js
 JavaScript
 Redux Toolkit
 React Router DOM
 Bootstrap 5
 CSS
-<p>✨ Features</p>
+</p>
+<h2>✨ Features</h2>
 
 User Registration: Users can create a new account.
 User Login: Secure login using email and password.
