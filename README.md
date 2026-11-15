@@ -12,18 +12,16 @@ MySQL
 JWT Authentication
 BCrypt Password Encryption
 Maven
-
-
 <p>Frontend</p>
+
 React.js
 JavaScript
 Redux Toolkit
 React Router DOM
 Bootstrap 5
 CSS
-
-
 <p>✨ Features</p>
+
 User Registration: Users can create a new account.
 User Login: Secure login using email and password.
 JWT Authentication: Secure authentication using JSON Web Tokens.
