@@ -1,0 +1,22 @@
+.sidebar {
+  width: 220px;
+  min-height: 100vh;
+  background: #212529;
+}
+
+@media (max-width: 768px) {
+  .sidebar {
+    position: fixed;
+    top: 0;
+    left: -220px;
+    width: 220px;
+    height: 100vh;
+    background: #212529;
+    transition: left 0.3s ease;
+    z-index: 9999;
+  }
+
+  .show-sidebar {
+    left: 0;
+  }
+}
