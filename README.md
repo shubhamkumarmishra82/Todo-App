@@ -13,6 +13,7 @@ JWT Authentication
 BCrypt Password Encryption
 Maven
 
+
 <p>Frontend</p>
 React.js
 JavaScript
@@ -20,6 +21,7 @@ Redux Toolkit
 React Router DOM
 Bootstrap 5
 CSS
+
 
 <p>✨ Features</p>
 User Registration: Users can create a new account.
@@ -31,7 +33,5 @@ Update Todo: Edit existing task details.
 Delete Todo: Remove tasks.
 Task Priority: Manage tasks based on priority.
 Due Date: Set deadlines for tasks.
-
 Task Status: Track tasks as Pending or Completed.
-
 User-Specific Tasks: Each user can access only their own tasks.
