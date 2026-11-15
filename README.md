@@ -1,8 +1,8 @@
 <p>Todo Management System</p>
 A Full Stack Todo Management Application developed using Java, Spring Boot, React.js and MySQL. This application allows users to manage their daily tasks with authentication, task priority, due dates and status tracking.
 
-<p>🚀 Technologies Used</p>
-<p>Backend</p>
+<h1>🚀 Technologies Used</h1>
+<h2>Backend</h2>
 Java 17
 Spring Boot 3.2.5
 Spring Security
@@ -12,6 +12,8 @@ MySQL
 JWT Authentication
 BCrypt Password Encryption
 Maven
+
+
 <p>Frontend</p>
 
 React.js
